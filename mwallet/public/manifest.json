@@ -1,0 +1,13 @@
+{
+  "name": "Crypto Wallet Project",
+  "version": "1.0.0",
+  "description": "Self Custodial and Decentralized Crypto Wallet",
+  "manifest_version": 3,
+  "action": {
+    "default_popup": "index.html",
+    "default_title": "Open Wallet"
+  },
+  "permissions": [
+    "storage"
+  ]
+}
